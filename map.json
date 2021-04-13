@@ -866,8 +866,32 @@
          "tilewidth":32
         }, 
         {
+         "columns":37,
          "firstgid":321,
-         "source":"roguelikeCity_transparent.tsx"
+         "image":"roguelikeCity_transparent.png",
+         "imageheight":475,
+         "imagewidth":628,
+         "margin":0,
+         "name":"roguelikeCity_transparent",
+         "spacing":1,
+         "tilecount":1036,
+         "tileheight":16,
+         "tilewidth":16,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":37,
+         "firstgid":1357,
+         "image":"roguelikeCity_transparent.png",
+         "imageheight":475,
+         "imagewidth":628,
+         "margin":0,
+         "name":"roguelikeCity_transparent",
+         "spacing":1,
+         "tilecount":1036,
+         "tileheight":16,
+         "tilewidth":16,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
