@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map_5\/map_CO.json#entryBar"
+                 "value":"\/map_CO.json#entryBar"
                 }],
          "type":"tilelayer",
          "visible":true,
