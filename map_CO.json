@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map_Bar.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/ka-raceing-e.v.\/rollout-2021\/bar#entryBar"
                 }],
          "type":"tilelayer",
          "visible":true,
