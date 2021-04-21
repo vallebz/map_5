@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ka-raceing-e.v.\/rollout-2021\/bar"
+                 "value":"https:\/\/play.workadventu.re\/@\/ka-raceing-e.v.\/rollout-2021\/bar#entryFromCO"
                 }],
          "type":"tilelayer",
          "visible":true,
