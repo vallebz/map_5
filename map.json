@@ -98,7 +98,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":10,
+ "nextlayerid":15,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -3356,7 +3356,7 @@
          "margin":0,
          "name":"roguelikeCity_magenta",
          "spacing":2,
-         "tilecount":17864,
+         "tilecount":1036,
          "tileheight":32,
          "tiles":[
                 {
