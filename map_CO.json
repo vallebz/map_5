@@ -382,11 +382,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Subteam Aerodynamik"
@@ -409,11 +404,6 @@
          "name":"AS",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -438,11 +428,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Subteam Elektrischer Anstriebsstrang"
@@ -465,11 +450,6 @@
          "name":"EL",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -494,11 +474,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Subteam Fahrwerk"
@@ -522,11 +497,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Subteam Marketing"
@@ -549,11 +519,6 @@
          "name":"MO",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
