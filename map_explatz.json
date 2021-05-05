@@ -1102,6 +1102,34 @@
          "spacing":0,
          "tilecount":1248,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":1162,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1163,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1164,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -1128,6 +1156,79 @@
          "spacing":0,
          "tilecount":480,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":416,
+                 "properties":[
+                        {
+                         "name":"colllides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":417,
+                 "properties":[
+                        {
+                         "name":"colllides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":418,
+                 "properties":[
+                        {
+                         "name":"colllides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":419,
+                 "properties":[
+                        {
+                         "name":"colllides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":420,
+                 "properties":[
+                        {
+                         "name":"colllides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":421,
+                 "properties":[
+                        {
+                         "name":"colllides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":422,
+                 "properties":[
+                        {
+                         "name":"colllides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":423,
+                 "properties":[
+                        {
+                         "name":"colllides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32,
          "transparentcolor":"#ffffff"
         }, 
