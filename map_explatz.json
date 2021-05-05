@@ -13,6 +13,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cdn.ka-raceing.de\/rollout\/2021\/21E.html"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
