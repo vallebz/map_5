@@ -97,16 +97,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Unterhaltung7"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Leertaste dr\u00fccken um eine Unterhaltung mit mehr als 4 Personen zu f\u00fchren"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -125,16 +115,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Unterhaltung8"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Leertaste dr\u00fccken um eine Unterhaltung mit mehr als 4 Personen zu f\u00fchren"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,16 +133,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Unterhaltung9"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Leertaste dr\u00fccken um eine Unterhaltung mit mehr als 4 Personen zu f\u00fchren"
                 }],
          "type":"tilelayer",
          "visible":true,
