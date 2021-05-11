@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cdn.ka-raceing.de\/rollout\/2021\/21e.html"
+                 "value":"https:\/\/cdn.ka-raceing.de\/rollout\/2021\/platzhalter"
                 }, 
                 {
                  "name":"silent",
@@ -35,7 +35,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cdn.ka-raceing.de\/rollout\/2021d\/21d.html"
+                 "value":"https:\/\/cdn.ka-raceing.de\/rollout\/2021d\/platzhalter"
                 }, 
                 {
                  "name":"silent",
